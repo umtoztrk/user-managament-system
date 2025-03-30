@@ -1,0 +1,38 @@
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\bin\Debug\logInFormTest1.exe.config
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\bin\Debug\logInFormTest1.exe
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\bin\Debug\logInFormTest1.pdb
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\logInFormTest1.csproj.AssemblyReference.cache
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\WindowsFormsApp15.Notes.resources
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\Reminder.ReminderMain.resources
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\Personal_Information.PersonalInformation.resources
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\salaryCalculator.SalaryMain.resources
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\oop2_proje_testProject2.PhoneBookAddUser.resources
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\oop2_proje_testProject2.PhoneBookMain.resources
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\logInFormTest1.LogInMenu.resources
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\logInFormTest1.MainMenu.resources
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\logInFormTest1.Properties.Resources.resources
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\logInFormTest1.Register.resources
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\logInFormTest1.UserManagement.resources
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\logInFormTest1.csproj.GenerateResource.cache
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\logInFormTest1.csproj.CoreCompileInputs.cache
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\logInFormTest1.exe
+C:\Users\ATAKAN\Desktop\4th semester\oop2_lab\proje\logInFormTest1\logInFormTest1\obj\Debug\logInFormTest1.pdb
+C:\Users\umuto\Desktop\logInFormTest1\bin\Debug\logInFormTest1.exe.config
+C:\Users\umuto\Desktop\logInFormTest1\bin\Debug\logInFormTest1.exe
+C:\Users\umuto\Desktop\logInFormTest1\bin\Debug\logInFormTest1.pdb
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\logInFormTest1.csproj.AssemblyReference.cache
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\WindowsFormsApp15.Notes.resources
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\Reminder.ReminderMain.resources
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\Personal_Information.PersonalInformation.resources
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\salaryCalculator.SalaryMain.resources
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\oop2_proje_testProject2.PhoneBookAddUser.resources
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\oop2_proje_testProject2.PhoneBookMain.resources
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\logInFormTest1.LogInMenu.resources
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\logInFormTest1.MainMenu.resources
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\logInFormTest1.Properties.Resources.resources
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\logInFormTest1.Register.resources
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\logInFormTest1.UserManagement.resources
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\logInFormTest1.csproj.GenerateResource.cache
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\logInFormTest1.csproj.CoreCompileInputs.cache
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\logInFormTest1.exe
+C:\Users\umuto\Desktop\logInFormTest1\obj\Debug\logInFormTest1.pdb
